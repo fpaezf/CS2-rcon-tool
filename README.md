@@ -5,7 +5,7 @@ Uses RCON DotNET by Untodesu: https://github.com/untodesu/rcon-dotnet
 
 Built with with Visual Studio &amp; .NET Framework 4.5.
 
-## Características
+## Features
 - View list of online players
 - Change map
 - Add/remove bots
