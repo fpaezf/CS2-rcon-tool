@@ -1,4 +1,4 @@
-![1x1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/1ef75521-df0c-4715-afc8-a6d3056b678f)
+![1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/b5c2f1a6-e9d1-47a5-b1bc-bf152cabab55)
 
 # Counter-Strike 2 RCON Tool
 A simple but effective **Counter-Strike 2 RCON tool** specially designed to remotely control your dedicated servers.
@@ -22,8 +22,8 @@ Built with with Visual Studio &amp; .NET Framework 4.5.
 ## Installation & use
 - Add or edit the **rcon_password "your-password"** cvar inside your **server.cfg** file.
 - Open the application and add a new server filling all fields
-- 
-![11](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/c2487c6b-277b-4ce1-96c8-3a7c2752e378)
+
+![1x1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/1ef75521-df0c-4715-afc8-a6d3056b678f)
 
 - 3. Start manage your server
 
