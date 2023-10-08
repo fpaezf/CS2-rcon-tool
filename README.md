@@ -1,6 +1,7 @@
 # CS2-rcon-tool
 A simple but effective **Counter-Strike 2 RCON tool** made with Visual Studio &amp; .NET Framework.
 This RCON tool is specially designed to remotely control your Counter-Strike 2 dedicated servers.
+
 Remember to add **rcon_password "your-password"** cvar to your **server.cfg** file.
 
 Uses RCON DotNET by Untodesu: https://github.com/untodesu/rcon-dotnet
