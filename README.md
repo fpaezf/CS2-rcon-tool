@@ -9,6 +9,7 @@ Built with with Visual Studio &amp; .NET Framework 4.5.
 
 ## Features
 - View list of online players
+- Kick/Ban players
 - Change map
 - Add/remove bots
 - Send chat messages with colors
