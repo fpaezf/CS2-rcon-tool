@@ -11,9 +11,11 @@ Built with with Visual Studio &amp; .NET Framework 4.5.
 - View list of online players
 - Kick/Ban players
 - Change map
+- Map list retrieved from server map rotation
 - Add/remove bots
 - Send chat messages with colors
 - Send RCON commands to the server
+- Autofill command input
 - View server console responses
 - Handle multiple servers
 - Server emergency stop
