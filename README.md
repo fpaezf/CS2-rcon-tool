@@ -9,6 +9,8 @@ Uses RCON DotNET by Untodesu: https://github.com/untodesu/rcon-dotnet
 Built with with Visual Studio &amp; .NET Framework 4.7.2.
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/> <img alt="NET" src="https://img.shields.io/badge/-Visual%20Basic-blue?style=flat&logo=.net&logoColor=white"/>
 
+Comments and feedback on Reddit: https://www.reddit.com/r/cs2/comments/172ltrv/a_simple_rcon_tool_for_cs2/
+
 ## Other CS2 admin tools
 - Conter-Strike 2 server manager tool: https://github.com/fpaezf/CS2-server-manager
 - Conter-Strike 2 server manager tool on Reddit: https://www.reddit.com/r/cs2/comments/172lgds/my_cs2_server_installerupdaterlauncher/
