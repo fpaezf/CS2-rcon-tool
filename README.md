@@ -1,4 +1,5 @@
-![1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/b5c2f1a6-e9d1-47a5-b1bc-bf152cabab55)
+
+![2](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/ca95a41c-8d08-47a1-ba01-424997149566)
 
 # Counter-Strike 2 RCON Tool
 A simple but effective **Counter-Strike 2 RCON tool** specially designed to remotely control your dedicated servers.
@@ -27,10 +28,13 @@ Built with with Visual Studio &amp; .NET Framework 4.5.
 - Open the application and add a new server filling all fields
 - Start manage your server
 
-![1x1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/1ef75521-df0c-4715-afc8-a6d3056b678f)
+![1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/833152bb-0248-4b63-8930-2fd139070a78)
+
 
 ## Screenshots
-![1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/b5c2f1a6-e9d1-47a5-b1bc-bf152cabab55)
-![2](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/daad91f9-6a4e-44f9-acc9-abfc73890583)
-![3](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/bffef3eb-7d72-417f-aec7-37437d350898)
-![4](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/94f53676-f050-4c3a-b942-6c57218a13f3)
+![3](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/18e89a83-af0c-444c-95af-da239697f916)
+![4](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/64656f26-b50c-44aa-9089-9c5ec1c2a99a)
+![5](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/5775bcfc-f763-4834-81c0-721c3fd80e5a)
+![6](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/ce68b6a7-a519-4c64-8601-241b314f5d2c)
+![7](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/75ff2f9c-96c0-4110-9971-d848c1a30ea9)
+![8](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/cdff3c15-b545-4f6d-9734-fba3de0ae2d7)
