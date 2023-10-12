@@ -6,7 +6,7 @@ A simple but effective **Counter-Strike 2 RCON tool** specially designed to remo
 
 Uses RCON DotNET by Untodesu: https://github.com/untodesu/rcon-dotnet
 
-Built with with Visual Studio &amp; .NET Framework 4.5.
+Built with with Visual Studio &amp; .NET Framework 4.7.2.
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/> <img alt="NET" src="https://img.shields.io/badge/-Visual%20Basic-blue?style=flat&logo=.net&logoColor=white"/>
 
 ## Features
