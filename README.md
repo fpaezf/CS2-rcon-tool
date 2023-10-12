@@ -9,19 +9,24 @@ Uses RCON DotNET by Untodesu: https://github.com/untodesu/rcon-dotnet
 Built with with Visual Studio &amp; .NET Framework 4.5.
 
 ## Features
-- View list of online players
+- Add/Edit/Manage your servers
+- Encripted password storage
+- Data is saved in XML files
+- Open single/Multi server RCON connections
+- Retrieve players list
 - Kick/Ban players
-- Change map
-- Map list retrieved from server map rotation
-- Add/remove bots
+- Quick server actions (add bots, change map, restart game...)
+- Send console commands and retrieve responses
+- Autofill console commands list
 - Send chat messages with colors
-- Send RCON commands to the server
-- Autofill command input
-- View server console responses
-- Handle multiple servers
-- Server emergency stop
-- Connect to the server to play
-- Launch game in -insecure mode
+- Edit/Save predefined messages
+- Auto send messages (like welcome message) every x seconds
+- Scheduled commands (daily at specified time or every x minutes)
+- Scheduled tasks
+- Application log
+- Join server launching game via Steam
+- Launch game with -insecure parameter
+- Shutdown server
 
 ## Installation & use
 - Add or edit the **rcon_password "your-password"** cvar inside your **server.cfg** file.
