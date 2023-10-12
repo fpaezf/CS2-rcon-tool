@@ -32,8 +32,10 @@ Built with with Visual Studio &amp; .NET Framework 4.5.
 - Add or edit the **rcon_password "your-password"** cvar inside your **server.cfg** file.
 - Open the application and add a new server filling all fields
 - Start manage your server
-
+  
 ![1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/833152bb-0248-4b63-8930-2fd139070a78)
+
+⚠️**WARNING:** Servers inside virtual machines or containers may experience connection issues.
 
 
 ## Screenshots
