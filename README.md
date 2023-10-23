@@ -4,7 +4,7 @@
 # Counter-Strike 2 RCON Tool
 A simple but effective **Counter-Strike 2 RCON tool** specially designed to remotely control your dedicated servers.
 
-Uses RCON DotNET by Untodesu: https://github.com/untodesu/rcon-dotnet
+Uses a modified version of RCON DotNET by Untodesu: https://github.com/untodesu/rcon-dotnet
 
 Built with with Visual Studio &amp; .NET Framework 4.7.2.
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/> <img alt="NET" src="https://img.shields.io/badge/-Visual%20Basic-blue?style=flat&logo=.net&logoColor=white"/>
@@ -42,7 +42,7 @@ Comments and feedback on Reddit: https://www.reddit.com/r/cs2/comments/172ltrv/a
   
 ![1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/833152bb-0248-4b63-8930-2fd139070a78)
 
-⚠️**WARNING:** Servers inside virtual machines or containers may experience connection issues.
+⚠️**WARNING:** Servers inside virtual machines or Docker containers may experience connection issues.
 
 
 ## Screenshots
