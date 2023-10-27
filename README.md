@@ -42,7 +42,7 @@ Comments and feedback on Reddit: https://www.reddit.com/r/cs2/comments/172ltrv/a
   
 ![1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/833152bb-0248-4b63-8930-2fd139070a78)
 
-⚠️**WARNING:** Servers inside virtual machines or Docker containers may experience connection issues.
+⚠️**WARNING:** If you're using Docker, set your IP in startup commands to **+ip 0.0.0.0**. Thanks **asdfxD** for the fix.
 
 
 ## Screenshots
