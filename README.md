@@ -1,5 +1,5 @@
-⚠️# THIS TOOL IS DEPRECTATED
-This tool is still functional but will not receive any updates in favor of this new RCON tool: https://github.com/fpaezf/CS2-RCON-Tool-V2
+# THIS TOOL IS DEPRECATED
+⚠️This tool is still functional but will not receive any updates in favor of this new RCON tool: https://github.com/fpaezf/CS2-RCON-Tool-V2
 
 -------------------------------------------------------------------------------------------------------------
 
