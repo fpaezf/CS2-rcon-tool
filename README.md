@@ -1,3 +1,5 @@
+#⚠️THIS TOOL IS DEPRECTATED⚠️
+This tool is still functional but will not receive any updates in favor of this new RCON tool: https://github.com/fpaezf/CS2-RCON-Tool-V2
 
 ![2](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/ca95a41c-8d08-47a1-ba01-424997149566)
 
@@ -17,11 +19,10 @@ Comments and feedback on Reddit: https://www.reddit.com/r/cs2/comments/172ltrv/a
 
 ## Features
 - Add/Edit/Manage your servers
-- Encripted password storage
 - Data is saved in XML files
 - Open single/Multi server RCON connections
 - Retrieve players list
-- Kick/Ban players
+- Kick players
 - Quick server actions (add bots, change map, restart game...)
 - Send console commands and retrieve responses
 - Autofill console commands list
@@ -37,10 +38,10 @@ Comments and feedback on Reddit: https://www.reddit.com/r/cs2/comments/172ltrv/a
 
 ## Installation & use
 - Add or edit the **rcon_password "your-password"** cvar inside your **server.cfg** file.
-- Open the application and add a new server filling all fields
-- Start manage your server
+- Open the application and add a new server filling all fields.
+- Start managing your servers!.
   
-⚠️**WARNING:** If you're using Docker, set your IP in startup commands to **+ip 0.0.0.0** or simply remove the +ip parameter. Thanks **asdfxD** for the fix.
+⚠️**WARNING:** If you're using a Docker image please, set your IP in startup commands to **+ip 0.0.0.0** or simply remove the +ip parameter. Thanks **asdfxD** for the fix.
 
 ![1](https://github.com/fpaezf/CS2-rcon-tool/assets/28062918/833152bb-0248-4b63-8930-2fd139070a78)
 
